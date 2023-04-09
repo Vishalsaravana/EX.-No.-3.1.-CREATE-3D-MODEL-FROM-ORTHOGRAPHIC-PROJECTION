@@ -41,6 +41,8 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+![Screenshot (14)](https://user-images.githubusercontent.com/119103912/230761360-892dc8df-4ff7-4df5-ab77-62e6742d64ff.png)
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
